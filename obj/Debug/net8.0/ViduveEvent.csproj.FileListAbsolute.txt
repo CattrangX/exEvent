@@ -1,0 +1,14 @@
+C:\Users\LAPTOP AK\source\repos\ViduveEvent\bin\Debug\net8.0\ViduveEvent.exe
+C:\Users\LAPTOP AK\source\repos\ViduveEvent\bin\Debug\net8.0\ViduveEvent.deps.json
+C:\Users\LAPTOP AK\source\repos\ViduveEvent\bin\Debug\net8.0\ViduveEvent.runtimeconfig.json
+C:\Users\LAPTOP AK\source\repos\ViduveEvent\bin\Debug\net8.0\ViduveEvent.dll
+C:\Users\LAPTOP AK\source\repos\ViduveEvent\bin\Debug\net8.0\ViduveEvent.pdb
+C:\Users\LAPTOP AK\source\repos\ViduveEvent\obj\Debug\net8.0\ViduveEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAPTOP AK\source\repos\ViduveEvent\obj\Debug\net8.0\ViduveEvent.AssemblyInfoInputs.cache
+C:\Users\LAPTOP AK\source\repos\ViduveEvent\obj\Debug\net8.0\ViduveEvent.AssemblyInfo.cs
+C:\Users\LAPTOP AK\source\repos\ViduveEvent\obj\Debug\net8.0\ViduveEvent.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP AK\source\repos\ViduveEvent\obj\Debug\net8.0\ViduveEvent.dll
+C:\Users\LAPTOP AK\source\repos\ViduveEvent\obj\Debug\net8.0\refint\ViduveEvent.dll
+C:\Users\LAPTOP AK\source\repos\ViduveEvent\obj\Debug\net8.0\ViduveEvent.pdb
+C:\Users\LAPTOP AK\source\repos\ViduveEvent\obj\Debug\net8.0\ViduveEvent.genruntimeconfig.cache
+C:\Users\LAPTOP AK\source\repos\ViduveEvent\obj\Debug\net8.0\ref\ViduveEvent.dll
